@@ -13,7 +13,7 @@
   (System/exit 0))
 
 (do
-  (println "main not called")
+  (println "calling do-sot")
   (do-sot))
 
 
