@@ -14,7 +14,9 @@ The goal is to hear a 440Hz sine wave for a few seconds after doing only this:
 
     lein oneoff sot.clj
 
-And this works for me.
+And this works for me.  So does:
+
+    lein oneoff dubstep.clj
 
 ??? for lein2? https://github.com/kumarshantanu/lein-exec
 
